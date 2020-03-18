@@ -1,3 +1,5 @@
+// load config
+require("dotenv").config();
 const express = require("express");
 
 // Put console log below
