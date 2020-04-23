@@ -15,7 +15,7 @@
         ]
       },
       "repo": {
-        "uri": "https://github.com/coderoad/fcc-basic-node-and-express",
+        "uri": "https://github.com/argemiront/fcc-basic-node-and-express",
         "branch": "v0.3.0"
       },
       "dependencies": [{
@@ -69,7 +69,7 @@
                 "src/server.js"
               ],
               "commits": [
-                "d9bf5f3"
+                "3e85c92"
               ],
               "commands": [
                 "npm install"
